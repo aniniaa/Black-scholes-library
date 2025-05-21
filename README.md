@@ -1,4 +1,4 @@
-# Black-Scholes Options Pricing Library
+# Options Pricing Library
 
 A comprehensive Python library for options pricing using the Black-Scholes model and its extensions. This library aims to provide tools for pricing European and American options, calculating option Greeks, and analyzing option strategies.
 
@@ -35,7 +35,7 @@ A comprehensive Python library for options pricing using the Black-Scholes model
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/black-scholes-calculator.git
+git clone https://github.com/aniniaa/black-scholes-calculator.git
 
 # Navigate to the directory
 cd black-scholes-calculator
