@@ -38,16 +38,11 @@ A comprehensive Python library for options pricing using the Black-Scholes model
 git clone https://github.com/aniniaa/options-pricing-library.git
 
 # Navigate to the directory
-cd black-scholes-calculator
-
-# Install dependencies
-pip install numpy scipy matplotlib.git
-
-# Navigate to the directory
-cd black-scholes-calculator
+cd options-pricing-library
 
 # Install dependencies
 pip install numpy scipy matplotlib
+
 ```
 
 ## Usage Examples
