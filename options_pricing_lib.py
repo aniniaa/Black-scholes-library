@@ -1697,7 +1697,7 @@ def main():
     print(f"Lower Break-even: ${put_spread_upper - total_credit:.2f}")
     print(f"Upper Break-even: ${call_spread_lower + total_credit:.2f}")
 
-    print("\nThank you for using the Black-Scholes Options Pricing Library!")
+    print("\nThank you for using the Options Pricing Library!")
 
 
 if __name__ == "__main__":
